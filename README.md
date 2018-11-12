@@ -13,5 +13,6 @@ Mouse wheel is used for zooming and mouse middle button is used to pan. Can be u
 ### DOWNLOAD
 Source are in the _root_ directory. Windows setup are in the 'bin' directory.
 
-[MS Windows (Installer)](bin/setup.exe)
+[MS Windows (Installer)](http://github.com/madsmammen/twoView/tree/master/bin/setup.exe)
 
+<a href="https://github.com/madsmammen/twoView/tree/master/bin/setup.exe" download>Click to Download</a>
